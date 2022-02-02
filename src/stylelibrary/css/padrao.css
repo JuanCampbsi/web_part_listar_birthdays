@@ -1,0 +1,91 @@
+.labelDesc {
+  height: 3rem;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  justify-content: flex-end;
+  padding-right: 0.5rem;
+}
+
+.Componentes {
+  height: 3rem;
+  margin: 0rem;
+  padding: 0px;
+}
+
+.Componentes-MultLine {
+  min-height: 2rem;
+  margin: 0rem;
+  padding: 0px;
+  margin-top: 0.5rem;
+}
+
+.rodapeForm {
+  margin-top: 0.5rem;
+  justify-content: flex-end;
+}
+
+.rodapeForm > button {
+  margin-left: 0.5rem;
+  justify-content: flex-end;
+}
+
+.btnPadrao, .btnPadrao:active {
+  background-color: #484644;
+  color: white;
+}
+
+.btnPadrao:hover {
+  background-color: #8e867e;
+  border-color: #8e867e;
+  color: white;
+}
+
+.tab-content {
+  background: #fdfdfd;
+  line-height: 25px;
+  border: 1px solid #ddd;
+  border-top: 5px solid #484644;
+  padding: 30px 25px;
+}
+
+.nav-tabs {
+  border: none;
+  color: #fff;
+  background: white;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+  color: #fff;
+  background: #8e867e;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.nav-tabs .nav-link.active {
+  border: none;
+  color: #fff;
+  background: #484644;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.formPadrao {
+  min-height: 600px;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+.foto {
+  width: 50px
+}
+
+.titulo{
+  font-size: 24px;
+  font-weight: 100;
+  color: #323130;
+}
